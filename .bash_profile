@@ -12,7 +12,6 @@ HISTFILESIZE=10000
 
 [ -f /usr/local/etc/bash_completion ] && . /usr/local/etc/bash_completion
 
-alias tf='ssh root@206.189.217.130'
 alias ll='ls -altr'
 alias gc='git checkout'
 alias gs='git status'
